@@ -1,4 +1,4 @@
-const VERSION = 'v8';
+const VERSION = 'v10';
 const CACHE = 'kal-tracker-' + VERSION;
 const ASSETS = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png', './icon-maskable-512.png', './apple-touch-icon.png'];
 
